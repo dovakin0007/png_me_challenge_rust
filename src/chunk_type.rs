@@ -3,9 +3,9 @@ use std::{str::FromStr, fmt};
 // use crate::Error;
 use std::fmt::Error;
 
-#[derive(Debug, PartialEq, Eq)]
+#[derive(Debug, PartialEq, Eq, Clone, Copy)]
 pub struct ChunkType{
-    bytes: [u8; 4],
+    pub(crate) bytes: [u8; 4],
 }
 
 impl ChunkType {

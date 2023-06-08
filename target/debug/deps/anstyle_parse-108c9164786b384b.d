@@ -1,0 +1,11 @@
+E:\Rust\PNGme\target\debug\deps\anstyle_parse-108c9164786b384b.rmeta: C:\Users\dovak\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.0\src\lib.rs C:\Users\dovak\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.0\src\params.rs C:\Users\dovak\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.0\src\state\mod.rs C:\Users\dovak\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.0\src\state\definitions.rs C:\Users\dovak\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.0\src\state\table.rs
+
+E:\Rust\PNGme\target\debug\deps\libanstyle_parse-108c9164786b384b.rlib: C:\Users\dovak\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.0\src\lib.rs C:\Users\dovak\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.0\src\params.rs C:\Users\dovak\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.0\src\state\mod.rs C:\Users\dovak\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.0\src\state\definitions.rs C:\Users\dovak\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.0\src\state\table.rs
+
+E:\Rust\PNGme\target\debug\deps\anstyle_parse-108c9164786b384b.d: C:\Users\dovak\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.0\src\lib.rs C:\Users\dovak\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.0\src\params.rs C:\Users\dovak\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.0\src\state\mod.rs C:\Users\dovak\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.0\src\state\definitions.rs C:\Users\dovak\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.0\src\state\table.rs
+
+C:\Users\dovak\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.0\src\lib.rs:
+C:\Users\dovak\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.0\src\params.rs:
+C:\Users\dovak\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.0\src\state\mod.rs:
+C:\Users\dovak\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.0\src\state\definitions.rs:
+C:\Users\dovak\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.0\src\state\table.rs:

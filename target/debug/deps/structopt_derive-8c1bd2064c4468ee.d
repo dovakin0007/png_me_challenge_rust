@@ -1,0 +1,10 @@
+E:\Rust\PNGme\target\debug\deps\structopt_derive-8c1bd2064c4468ee.dll: C:\Users\dovak\.cargo\registry\src\index.crates.io-6f17d22bba15001f\structopt-derive-0.4.18\src\lib.rs C:\Users\dovak\.cargo\registry\src\index.crates.io-6f17d22bba15001f\structopt-derive-0.4.18\src\attrs.rs C:\Users\dovak\.cargo\registry\src\index.crates.io-6f17d22bba15001f\structopt-derive-0.4.18\src\doc_comments.rs C:\Users\dovak\.cargo\registry\src\index.crates.io-6f17d22bba15001f\structopt-derive-0.4.18\src\parse.rs C:\Users\dovak\.cargo\registry\src\index.crates.io-6f17d22bba15001f\structopt-derive-0.4.18\src\spanned.rs C:\Users\dovak\.cargo\registry\src\index.crates.io-6f17d22bba15001f\structopt-derive-0.4.18\src\ty.rs
+
+E:\Rust\PNGme\target\debug\deps\structopt_derive-8c1bd2064c4468ee.d: C:\Users\dovak\.cargo\registry\src\index.crates.io-6f17d22bba15001f\structopt-derive-0.4.18\src\lib.rs C:\Users\dovak\.cargo\registry\src\index.crates.io-6f17d22bba15001f\structopt-derive-0.4.18\src\attrs.rs C:\Users\dovak\.cargo\registry\src\index.crates.io-6f17d22bba15001f\structopt-derive-0.4.18\src\doc_comments.rs C:\Users\dovak\.cargo\registry\src\index.crates.io-6f17d22bba15001f\structopt-derive-0.4.18\src\parse.rs C:\Users\dovak\.cargo\registry\src\index.crates.io-6f17d22bba15001f\structopt-derive-0.4.18\src\spanned.rs C:\Users\dovak\.cargo\registry\src\index.crates.io-6f17d22bba15001f\structopt-derive-0.4.18\src\ty.rs
+
+C:\Users\dovak\.cargo\registry\src\index.crates.io-6f17d22bba15001f\structopt-derive-0.4.18\src\lib.rs:
+C:\Users\dovak\.cargo\registry\src\index.crates.io-6f17d22bba15001f\structopt-derive-0.4.18\src\attrs.rs:
+C:\Users\dovak\.cargo\registry\src\index.crates.io-6f17d22bba15001f\structopt-derive-0.4.18\src\doc_comments.rs:
+C:\Users\dovak\.cargo\registry\src\index.crates.io-6f17d22bba15001f\structopt-derive-0.4.18\src\parse.rs:
+C:\Users\dovak\.cargo\registry\src\index.crates.io-6f17d22bba15001f\structopt-derive-0.4.18\src\spanned.rs:
+C:\Users\dovak\.cargo\registry\src\index.crates.io-6f17d22bba15001f\structopt-derive-0.4.18\src\ty.rs:
