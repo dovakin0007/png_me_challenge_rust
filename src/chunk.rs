@@ -1,5 +1,5 @@
-use crate::{chunk_type::{ChunkType, self}, Error};
-use crc::{CRC_32_ISO_HDLC, Crc, Algorithm};
+use crate::{chunk_type::{ChunkType}, Error};
+use crc::{CRC_32_ISO_HDLC, Crc};
 use core::fmt;
 use crate::Result;
 use std::fmt::Error as E;

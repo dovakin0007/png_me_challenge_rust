@@ -1,6 +1,6 @@
-use crate::{chunk::{Chunk, self}, Error};
-use crate::Result as R;
+use crate::{chunk::{Chunk}, Error};
 
+use crate::Result as R;
 use core::fmt;
 use std::{fmt::Error as E, path::Path};
 
@@ -15,9 +15,9 @@ impl Png {
     // const header from the PNG standard
     pub const STANDARD_HEADER:[u8; 8] =  [137, 80, 78, 71, 13, 10, 26, 10];
 
-    pub fn from_file<P: AsRef<Path>>(path: P) -> std::result::Result<Self, ()>{
-        let f = std::fs::read(path).unwrap();
-        let png = Png::try_from(&f[..]).unwrap();
+    pub fn from_file<P: AsRef<Path>>(path: P) -> std::result::Result<Self, Error>{
+        let f = std::fs::read(path)?;
+        let png = Png::try_from(&f[..])?;
         Ok(png)
         
     }
